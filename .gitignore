@@ -3,6 +3,6 @@
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
-/build
+build
 /captures
 .externalNativeBuild
