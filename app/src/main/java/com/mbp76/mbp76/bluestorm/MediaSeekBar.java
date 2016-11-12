@@ -49,7 +49,7 @@ public class MediaSeekBar {
             }
         });
 
-        seekBar.setProgress(maxVolume);
+        seekBar.setProgress(maxVolume / 2);
 
         return seekBar;
     }
