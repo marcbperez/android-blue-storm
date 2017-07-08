@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Blue Storm</string>
+    <string name="rain">Rain</string>
+    <string name="wind">Wind</string>
+    <string name="thunder">Thunder</string>
+    <string name="toggle">Toggle</string>
 </resources>

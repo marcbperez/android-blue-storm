@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Black screen, suitable for dark rooms.
+  - Configuration to prevent media duplication.
+  - Layout strings on resources file.
+  - Application icon with white background, for dark and bright screens.
+  - Gradle wrapper for this project.
+  - Project and application configuration from Android Studio.
+
 ## 0.3.1 - 2016-11-12
 
 ### Fixed
