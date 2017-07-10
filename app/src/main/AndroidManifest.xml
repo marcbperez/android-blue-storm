@@ -4,12 +4,14 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_tag_faces_black_24dp"
+        android:icon="@mipmap/icon_surround_sound"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_tag_faces_black_24dp"
+        android:roundIcon="@mipmap/icon_surround_sound"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity
+          android:name=".MainActivity"
+          android:configChanges="keyboardHidden|orientation|screenSize|uiMode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

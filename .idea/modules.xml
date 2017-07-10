@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/BlueStorm.iml" filepath="$PROJECT_DIR$/BlueStorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-blue-storm.iml" filepath="$PROJECT_DIR$/android-blue-storm.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
