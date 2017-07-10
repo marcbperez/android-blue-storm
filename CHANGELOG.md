@@ -5,6 +5,8 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.4.0 - 2017-07-10
+
 ### Added
 
   - Black screen, suitable for dark rooms.
